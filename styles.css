@@ -31,6 +31,10 @@ body, html {
   margin-top: 10rem;
 }
 
-.space-bottom{
+.space-bottom-5{
   margin-bottom: 5rem;
+}
+
+.space-bottom-2{
+  margin-bottom: 2rem;
 }
