@@ -39,5 +39,14 @@ body, html {
 }
 
 footer{
-  height: 50rem;
+  height: 20rem;
+}
+
+.Github-media-img{
+  width: 5rem;
+  height: 5rem;
+}
+.LinkedIn-media-img{
+  width: 8rem;
+  height: 4rem;
 }
