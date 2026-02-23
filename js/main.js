@@ -1,6 +1,6 @@
 // ===== Typing Animation =====
 (function () {
-  const strings = ['Fullstack Developer', 'App Developer', 'Problem Solver'];
+  const strings = ['Fullstack Developer', 'Tech Lead', 'Problem Solver'];
   const typedEl = document.querySelector('.typed-text');
   if (!typedEl) return;
 
